@@ -1,4 +1,4 @@
-## NAME: PRIYAN
+## DEVELOPED BY: PRIYAN
 ## REG NO: 212224230211
 # Multiple server with infinite capacity - (M/M/c):(oo/FIFO)
 ## Aim :
